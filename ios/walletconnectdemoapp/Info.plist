@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>WalletConnect</string>
+	<string>Fex Wallet</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -22,6 +22,14 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+  <key>NSPhotoLibraryUsageDescription</key>
+  <string>此 App 需要您的同意才能读取媒体资料库</string>
+  <key>NSCameraUsageDescription</key>
+  <string>cameraDesciption</string>
+  <key>NSContactsUsageDescription</key>
+  <string>contactsDesciption</string>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>microphoneDesciption</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
